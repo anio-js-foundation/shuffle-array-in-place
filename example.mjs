@@ -1,4 +1,4 @@
-import shuffleArrayInPlace from "./index.mjs"
+import shuffleArrayInPlace from "./src/index.mjs"
 
 console.log(shuffleArrayInPlace([1, 2, 3]))
 
